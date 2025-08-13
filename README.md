@@ -53,7 +53,7 @@ Ranked resumes with detailed results including scores and charts:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/AI-Resume-Ranking.git
+git https://github.com/arpanneupane75/AI-Resume-Screening.git
 cd AI-Resume-Ranking
 ```
 ### Create a Virtual Environment (Optional)
