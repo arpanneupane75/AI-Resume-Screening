@@ -1,4 +1,7 @@
 # AI Resume Screening & Ranking System
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Streamlit](https://img.shields.io/badge/streamlit-1.30-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
 This AI-powered resume screening and ranking system leverages **Natural Language Processing (NLP)** and **Machine Learning** to analyze, extract, and rank resumes based on their relevance to a job description. It uses **TF-IDF**, **BERT embeddings**, and **skill matching** from a curated skills database to provide accurate and actionable insights.
