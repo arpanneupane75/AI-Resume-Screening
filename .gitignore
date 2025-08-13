@@ -1,0 +1,44 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Streamlit cache
+.streamlit/
+
+# Output files
+*.csv
+*.pdf
+
+# Data / models (if large, optional)
+data/
+models/
+
+# Ignore any sensitive keys or API secrets
+*.key
+*.json
+*.env
